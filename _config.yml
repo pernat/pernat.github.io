@@ -1,9 +1,9 @@
 ines (39 sloc) 1.17 KB
 # Site Info
-title:              "The Plain"
-description:        "A minimalist Jekyll theme"
-author_name:        "Heiswayi Nrird" # change this to your name
-logo_url:           https://avatars0.githubusercontent.com/u/13794983?v=4 # Get it from GitHub API: https://api.github.com/users/<username>
+title:              "ZHSS"
+description:        "Мой минималистичный блог"
+author_name:        "Сергей Журавлев" # change this to your name
+logo_url:           https://api.github.com/users/pernat # Get it from GitHub API: https://api.github.com/users/<username>
 
 # Site Settings
 url:                https://pernat.github.io # main url
