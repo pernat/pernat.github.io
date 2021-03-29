@@ -18,7 +18,23 @@ layout: default
 		<ul>
 			<li>
 				<div class="post-date code">
-					<span>{{ post.date | date: "%b %d" }}</span>
+					{% assign m =  post.date | date: "%-m" %}
+
+					<span>{{ post.date | date: "%d" }}</span>
+					{% case m %}
+				      {% when '1' %}Января
+				      {% when '2' %}Февраля
+				      {% when '3' %}Марта
+				      {% when '4' %}Апреля
+				      {% when '5' %}Мая
+				      {% when '6' %}Июня
+				      {% when '7' %}Июля
+				      {% when '8' %}Августа
+				      {% when '9' %}Сентября
+				      {% when '10' %}Октября
+				      {% when '11' %}Ноября
+				      {% when '12' %}Декабря
+    				{% endcase %}
 				</div>
 				<div class="title">
 					<a href="{{ post.url | prepend: site.baseurl | prepend: site.url }}">{{ post.title }}</a>
