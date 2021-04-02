@@ -10,5 +10,5 @@ categories: python
 А нет ни какой задачи. С днем рождения меня.
 
 {:refdef: style="text-align: center;"}
-![ich bin ja ja](assets/images/birthday_mem_13.jpg){: width="250" }
+![ich bin ja ja](assets/images/birthday_mem_13.jpg){: width="400" }
 {: refdef}
