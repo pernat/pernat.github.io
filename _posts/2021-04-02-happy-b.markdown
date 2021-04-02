@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "print('День рождения - сегодня')"
+date:   2021-04-02 17:47:13 +0300
+categories: python
+---
+
+# Задача
+...
+А нет ни какой задачи. С днем рождения меня.
+
+{:refdef: style="text-align: center;"}
+![ich bin ja ja](assets/images/birthday_mem_13.jpg){: width="250" }
+{: refdef}
