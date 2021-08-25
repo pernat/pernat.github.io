@@ -22,5 +22,5 @@ categories: linux
 С днем рождения Linux!
 
 {:refdef: style="text-align: center;"}
-![Linus(x)](https://cdn5.vedomosti.ru/crop/image/2019/10/1d4ssx/original-1roe.jpg){: width="400" }
+![Linus(x)](assets/images/LinusT.png){: width="400" }
 {: refdef}
