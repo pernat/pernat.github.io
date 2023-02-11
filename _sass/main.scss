@@ -14,7 +14,8 @@ body {
   font-weight: normal;
   font-style: normal;
   font-family: 'JetBrains Mono', monospace;
-  color: #333333;
+  color: #cfcfcf;
+  background-color: #111111;
   padding: 20px;
   margin: 0;
   -webkit-font-smoothing: antialiased;
@@ -31,7 +32,7 @@ h5,
 h6 {
     margin-bottom: 1rem;
     line-height: 1.25;
-    color: #313131;
+    color: #e8e8e8;
 }
 h1 {
   font-size: 2rem;
@@ -90,7 +91,7 @@ blockquote {
   -webkit-animation-name: bounce;
   a {
     background: #ddd url("logo_wrapper.png");
-    color: #000;
+    color: #fff;
     text-decoration: none;
     font-weight: 700;
     height: 100px;
@@ -181,7 +182,7 @@ pre,
   font-family: Consolas, monaco, monospace;
 }
 code {
-  color: #f14e32;
+  color: #fff;
   background: #eee;
   padding: 2px 6px;
   font-size: 13px;
